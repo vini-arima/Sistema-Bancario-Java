@@ -10,9 +10,12 @@ Model - Gerenciar dados da aplicação \
 View - Interface com usuário \
 Controller - Receber requisições do usuário 
 
+## Sobre a Licença utilizada
+MIT licese
+
 Organização de pastas
 ----------------------
-sistema-bancario/         \
+Sistema-bancario/         \
 ├── src/  
    ├── model/               \
      │   ├── Conta.java           \
