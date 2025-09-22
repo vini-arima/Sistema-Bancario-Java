@@ -11,7 +11,8 @@ View - Interface com usuário \
 Controller - Receber requisições do usuário 
 
 ## Sobre a Licença utilizada
-MIT licese
+
+MIT License 
 
 Organização de pastas
 ----------------------
