@@ -20,8 +20,7 @@ Sistema-bancario/         \
 ├── src/  
    ├── model/               \
      │   ├── Conta.java           \
-     │   ├── Cliente.java            \
-     │   └── Transacao.java             \
+     │   ├── Cliente.java            \     \
 ├── controller/                          \
 │   │   ├── BancoController.java            \
 │   │   └── JsonController.java             \
